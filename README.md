@@ -214,3 +214,7 @@ Contributions and feature ideas are always welcome!
 ## License
 
 See [LICENSE](LICENSE) for the license terms.
+
+---
+
+<p align="center"><sub>Portfolio catalog · Project 15 of 22 · <a href="https://github.com/tracolerd">Nurul Faiyaz</a></sub></p>
